@@ -69,17 +69,28 @@ I’m a passionate and evolving techie who thrives at the intersection of **cybe
 ---
 
 
-## 📈 GitHub Stats
+## 🎓 Certifications & Courses
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav7parashar&show_icons=true&theme=radical" alt="Vaibhav's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav7parashar&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7parashar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Software%20Testing-NPTEL-0A66C2?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intro%20to%20Cybersecurity-CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking%20Basics-CISCO-1BA0D7?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Essentials-CISCO-1BA0D7?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
+
+### 🏅 Highlights
+
+- 📘 **Software Testing (NPTEL)** – Deep dive into black-box & white-box testing, unit testing & automation principles  
+- 🔐 **Intro to Cybersecurity (Cisco)** – Security principles, CIA triad, cyber ethics & threat landscape  
+- 🌐 **Networking Basics (Cisco)** – Networking layers, IP addressing, routing basics  
+- 🛡️ **Cyber Essentials (Cisco)** – Foundational defense, incident response, securing data  
+- 🖥️ **Cisco Packet Tracer** – Simulating & configuring networks in a virtual lab
+
+> 📌 *All certifications completed between 2022–2025 as part of continuous upskilling.*
+
 
 ## 📡 Connect With Me
 
