@@ -68,14 +68,15 @@ I’m a passionate and evolving techie who thrives at the intersection of **cybe
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav7parashar&show_icons=true&theme=tokyonight&border_radius=10" alt="Vaibhav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav7parashar&show_icons=true&theme=radical" alt="Vaibhav's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav7parashar&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav7parashar&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7parashar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7parashar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
