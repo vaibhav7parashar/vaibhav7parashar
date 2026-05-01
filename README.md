@@ -1,8 +1,4 @@
-Got it. No explanations. No fragments. **One clean file. Copy → paste → done.**
 
----
-
-````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=220&section=header&text=Vaibhav%20Parashar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
